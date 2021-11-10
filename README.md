@@ -1,6 +1,6 @@
 # Fully_Connected_Graph_Drawer
 
-This program draws a simple spherical graph of any given number of points where each point used to draw the circle is connected to every other point in the circle.
+This program draws a simple spherical graph of any given number of points where each point used to draw the circle is connected to every other point in the circle.  The number of points used to draw this circle can be changed during execution of the program, by using the up and down arrows to raise and lower the number of points respectively.
 
 The program begins by drawing a circle using only 10 points, however the user can increase or decrease the number of points used to draw the circle using the up and down arrows on the keyboard.  Each time an arrow is pressed, the graph is automatically redrawn with the updated number of points.
 
