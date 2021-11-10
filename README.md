@@ -9,5 +9,7 @@ The program also provides some modularity in the code. In the CHANGE section, th
 Lastly, if you wish to change the size of the program screen, note that you must also change the values for the size() function within the setup() function in the following manner:
 
 void setup() {
+  
   size(NEW_X, NEW_Y);
+  
   ...
